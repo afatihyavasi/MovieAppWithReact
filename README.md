@@ -1,7 +1,7 @@
 
 # Simple Movie App With React
 
-This project goals learn React props and state usage. 
+This project goals learn React components, props and states usage. 
 
 Thanks for inspiration [Arin Yazılım](https://www.youtube.com/c/ArinYazilim/featured)
 
